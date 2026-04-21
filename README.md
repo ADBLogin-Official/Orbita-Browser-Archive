@@ -34,10 +34,6 @@ Sử dụng mã giảm giá để gia hạn hoặc mua mới gói Multilogin:
 
 ---
 
-### ⚠️ Lưu ý về Antivirus
-
-Tất cả các file thực thi của trình duyệt Orbita có thể bị phần mềm diệt virus nhận diện nhầm do can thiệp sâu vào driver vân tay. 
-* **Vui lòng thêm thư mục chứa Orbita vào danh sách Whitelist.**
 
 ---
 
